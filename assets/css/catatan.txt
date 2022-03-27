@@ -1,0 +1,14 @@
+1. pada folder css/templatemo-softy-pinko.css ada tambahan design:
+baris ke 355
+pada class button.main-button
+ada tambahan:
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+#digunakan supaya button berada di center secara flexibel.
+
+2. pada file index.html pada baris 241 ada tambahan code:
+<button type="button" class="main-button">Masukkan keranjang</button>
+
+untuk tombol masukkan keranjang
